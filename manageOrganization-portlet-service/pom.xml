@@ -9,7 +9,7 @@
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.lftechnology.sbworkbench.training.manageorganization</groupId>
-	<artifactId>ManageOrganization-portlet-service</artifactId>
+	<artifactId>manageOrganization-portlet-service</artifactId>
 	<packaging>jar</packaging>
 	<name>manageOrganization Portlet Service</name>
 	<version>ver1.0.0</version>
